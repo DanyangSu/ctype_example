@@ -1,0 +1,12 @@
+https://dmtn-013.lsst.io
+https://notes-on-cython.readthedocs.io/en/latest/std_dev.html
+https://github.com/frallain/wiki/wiki/Wrapping-a-C-library-in-Python
+https://www.infoworld.com/article/3227890/cython-027-speeds-python-by-moving-away-from-oddball-syntax.html
+https://s-knibbs.github.io/blog/2016/09/15/8-ways-to-use-c-code-from-python/
+https://cai.tools.sap/blog/how-to-speed-up-python-with-c/
+https://stackoverflow.com/questions/2647105/i-need-to-speed-up-a-function-should-i-use-cython-ctypes-or-something-else
+https://stackoverflow.com/questions/20639812/cython-vs-ctypes-function-execution-speed
+https://stackoverflow.com/questions/1942298/wrapping-a-c-library-in-python-c-cython-or-ctypes
+http://tungwaiyip.info/blog/2009/07/16/ctype_performance_benchmark
+https://stackoverflow.com/questions/43876987/how-to-import-cython-generated-module-from-python-to-c-c-main-file-programmi
+
